@@ -204,7 +204,7 @@ const projects = [
     
     image: ZerodhaPro
     ,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kaushalya4s5s7/Zerodha-Clone",
   },
 ];
 
